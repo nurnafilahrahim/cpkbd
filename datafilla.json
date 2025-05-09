@@ -1,0 +1,818 @@
+[
+  {
+    "nama_daerah": "Yogyakarta",
+    "gambar": "https://example.com/images/yogyakarta.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Gudeg Yu Djum",
+        "deskripsi": "Gudeg legendaris khas Yogyakarta",
+        "gambar": "https://example.com/images/gudeg.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Keraton Yogyakarta",
+        "deskripsi": "Istana resmi Kesultanan Yogyakarta",
+        "gambar": "https://example.com/images/keraton.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Parangtritis",
+        "deskripsi": "Pantai terkenal di Yogyakarta",
+        "gambar": "https://example.com/images/parangtritis.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Bandung",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Batagor Kingsley",
+        "deskripsi": "Batagor populer khas Bandung",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung Tangkuban Perahu",
+        "deskripsi": "Gunung berapi yang menjadi objek wisata",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Paris Van Java Mall",
+        "deskripsi": "Mall populer di Bandung",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Bali",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "pantai",
+        "nama": "Pantai kuta",
+        "deskripsi": "Tempat terkenal untuk surfing dan sunset.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "kuliner",
+        "nama": "Ayam Betutu",
+        "deskripsi": "Ayam berbumbu rempah khas Bali.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Pura Ulun Danu Beratan",
+        "deskripsi": "Pura di tengah danau dengan latar pegunungan.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Jakarta",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "restoran",
+        "nama": "Cafe Batavia",
+        "deskripsi": "Restoran bergaya kolonial di Kota Tua.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "makanan khas",
+        "nama": "Kerak Telor",
+        "deskripsi": "Olahan telur dengan beras ketan dan serundeng, khas Betawi.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Grand Indonesia",
+        "deskripsi": "Salah satu mall terbesar di Indonesia.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Surabaya",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Rawon Setan",
+        "deskripsi": "Rawon daging sapi dengan kuah hitam khas Jawa Timur.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "House of Sampoerna",
+        "deskripsi": "Museum rokok yang juga menampilkan sejarah kota.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Hotel Majapahit",
+        "deskripsi": "Tempat bersejarah perjuangan kemerdekaan.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Medan",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Bika Ambon Zulaikha",
+        "deskripsi": "Oleh-oleh khas dari Medan.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "danau",
+        "nama": "Danau Toba",
+        "deskripsi": "Danau vulkanik terbesar di Asia Tenggara.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Istana Maimun",
+        "deskripsi": "Istana Kesultanan Deli.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Padang",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Sate Padang Ajo Ramon",
+        "deskripsi": "Sate khas Minang dengan kuah kental.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung Marapi",
+        "deskripsi": "Gunung berapi aktif dan spot pendakian favorit.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Air Manis",
+        "deskripsi": "Lokasi Batu Malin Kundang.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Palembang",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Pempek Vico",
+        "deskripsi": "Makanan khas dari ikan dan sagu yang disajikan dengan kuah cuko.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Benteng Kuto Besak",
+        "deskripsi": "Benteng peninggalan Kesultanan Palembang.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "sungai",
+        "nama": "Sungai Musi",
+        "deskripsi": "Sungai utama yang dilintasi oleh Jembatan Ampera.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Pekanbaru",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Mie Sagu",
+        "deskripsi": "Makanan khas berbahan dasar sagu.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "Museum Sang Nila Utama",
+        "deskripsi": "Menyimpan koleksi budaya Melayu.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Cinta Teluk Jering",
+        "deskripsi": "pasir putih dan air sungai Kampar yang jernih.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Banda Aceh",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Mie Aceh",
+        "deskripsi": "Mie pedas khas Aceh dengan daging sapi atau seafood.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "Museum Tsunami",
+        "deskripsi": "Memperingati tragedi tsunami 2004.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Masjid Raya Baiturrahman",
+        "deskripsi": "Ikon kota dan simbol kekuatan spiritual.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Makassar",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Coto Makassar",
+        "deskripsi": "Sup daging dengan kuah kacang.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Losari",
+        "deskripsi": "Tempat favorit warga Makassar.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Fort Rotterdam",
+        "deskripsi": "Bangunan peninggalan Belanda.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Solo",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "jajanan khas",
+        "nama": "serabi notosuman",
+        "deskripsi": "kue dadar tradisional",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "Museum Batik Danar Hadi",
+        "deskripsi": "Koleksi batik klasik.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Keraton Surakarta",
+        "deskripsi": "Istana resmi keluarga raja.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Semarang",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Lumpia Semarang",
+        "deskripsi": "Makanan khas berisi rebung.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Lawang Sewu",
+        "deskripsi": "Gedung ikonik peninggalan Belanda.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "Museum Kereta Api Ambarawa",
+        "deskripsi": "Museum kereta uap klasik.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Serang",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Rabeg",
+        "deskripsi": "Daging kambing masak pedas khas Banten.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Anyer",
+        "deskripsi": "Pantai berpasir putih dengan resort.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Keraton Surosowan",
+        "deskripsi": "Istana Sultan Banten.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Jayapura",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Papeda",
+        "deskripsi": "Makanan dari sagu khas Papua.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Bukit Teletubbies",
+        "deskripsi": "Bukit hijau dengan panorama indah.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "danau",
+        "nama": "Danau Sentani",
+        "deskripsi": "Dikelilingi oleh pegunungan dan desa adat.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Mataram",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "jajanan khas",
+        "nama": "Ayam Taliwang",
+        "deskripsi": "Ayam bakar pedas khas Lombok.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung Rinjani",
+        "deskripsi": "Gunung tertinggi kedua di Indonesia.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Senggigi",
+        "deskripsi": "Destinasi wisata utama di Lombok.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Ternate",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Gohu Ikan",
+        "deskripsi": "Sashimi khas Ternate.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Gunung Gamalama",
+        "deskripsi": "Gunung berapi ikonik.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Benteng Tolukko",
+        "deskripsi": "Benteng peninggalan Portugis.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Ambon",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Papeda",
+        "deskripsi": "Makanan dari sagu dengan ikan kuah kuning.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Natsepa",
+        "deskripsi": "Terkenal dengan rujaknya.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "Museum Siwalima",
+        "deskripsi": "Menampilkan sejarah dan budaya Maluku.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Gorontalo",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Binte Biluhuta",
+        "deskripsi": "Sup jagung khas Gorontalo.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Olele",
+        "deskripsi": "Tempat diving yang eksotis.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "danau",
+        "nama": "Danau Limboto",
+        "deskripsi": "Danau alami dekat kota.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Samarinda",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Nasi Kuning Samarinda",
+        "deskripsi": "Dihidangkan dengan ayam dan sambal goreng.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "restoran",
+        "nama": "Pondok Borneo",
+        "deskripsi": "Restoran seafood favorit dengan cita rasa lokal.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "PBig Mall Samarinda",
+        "deskripsi": "Pusat perbelanjaan terbesar di kota ini.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Balikpapan",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kepiting Dandito",
+        "deskripsi": "Restoran terkenal dengan olahan kepiting.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Lamaru",
+        "deskripsi": "Pantai berpasir putih yang bersih dan tenang.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Novotel Balikpapan",
+        "deskripsi": "Hotel bintang 4 di pusat kota.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Banjarmasin",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Soto Banjar",
+        "deskripsi": "Soto ayam khas Banjarmasin.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "restoran",
+        "nama": "RM Patin Hj. Husniah",
+        "deskripsi": "Tempat makan favorit olahan ikan patin.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Duta Mall",
+        "deskripsi": "Mall terbesar dan terlengkap di Banjarmasin.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Palangkaraya",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Juhu Singkah",
+        "deskripsi": "Sayur dari batang rotan muda.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "M Bahalap Hotel",
+        "deskripsi": "Hotel modern dengan nuansa Dayak.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Palangka Raya Mall",
+        "deskripsi": "Pusat belanja dan hiburan warga lokal.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Kendari",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Sinonggi",
+        "deskripsi": "Makanan khas berbahan dasar sagu.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Nambo",
+        "deskripsi": "Pasir putih yang cocok untuk rekreasi.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Swiss-Belhotel Kendari",
+        "deskripsi": "Akomodasi bintang empat.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Palu",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Kaledo",
+        "deskripsi": "Sup tulang sapi khas Palu.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Best Western Plus Coco Palu",
+        "deskripsi": "Hotel modern di pusat kota.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Palu Grand Mall",
+        "deskripsi": "Tempat belanja dan hiburan keluarga.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Kupang",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Se’i Sapi",
+        "deskripsi": "Daging asap khas Kupang.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Aston Kupang Hotel",
+        "deskripsi": "Tempat rekreasi keluarga.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Lasiana",
+        "deskripsi": "Mall populer di Bandung",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Denpasar",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Nasi Campur Bali",
+        "deskripsi": "Hidangan khas dengan lauk beragam.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "Museum Bali",
+        "deskripsi": "Menampilkan budaya Bali kuno.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Level 21 Mall",
+        "deskripsi": "Mall modern di jantung kota.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Cirebon",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Empal Gentong",
+        "deskripsi": "Sup daging dengan santan kental.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Keraton Kasepuhan",
+        "deskripsi": "Simbol sejarah kerajaan Cirebon.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "restoran",
+        "nama": "Nasi Jamblang Ibu Nur",
+        "deskripsi": "Restoran khas Cirebon.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Tegal",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Sate Blengong",
+        "deskripsi": "Sate dari bebek dan mentok khas Tegal.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Alam Indah",
+        "deskripsi": "Pantai wisata dengan fasilitas keluarga.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Rita Supermall",
+        "deskripsi": "Pusat belanja terbesar di Tegal.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Malang",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Bakso Malang",
+        "deskripsi": "Mie bakso khas dengan berbagai isian seperti tahu, siomay, dan bakso urat.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Hotel Tugu Malang",
+        "deskripsi": "Hotel bersejarah dengan koleksi seni dan suasana Jawa klasik.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "bangunan bersejarah",
+        "nama": "Gereja Kayu Tugu",
+        "deskripsi": "Gereja peninggalan Belanda dengan arsitektur klasik.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Pontianak",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Chai Kue",
+        "deskripsi": "Jajanan khas Pontianak berupa kue kukus isi sayuran seperti kucai dan bengkuang.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "restoran",
+        "nama": "Abang Kepiting",
+        "deskripsi": "Restoran seafood populer dengan olahan kepiting khas Kalbar.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "mall",
+        "nama": "Ayani Megamall",
+        "deskripsi": "Mall terbesar dan terlengkap di Kalimantan Barat.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Manado",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Cakalang Fufu",
+        "deskripsi": "Ikan cakalang asap khas Minahasa yang disajikan dengan sambal rica-rica.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Aryaduta Manado",
+        "deskripsi": "Hotel berbintang dengan pemandangan laut Manado.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "museum",
+        "nama": "Museum Negeri Sulawesi Utara",
+        "deskripsi": "Menampilkan budaya, sejarah, dan kekayaan alam Sulawesi Utara.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Banyuwangi",
+    "gambar": "https://example.com/images/bandung.jpg",
+    "wisata": [
+      {
+        "kategori": "kuliner",
+        "nama": "Sego Tempong",
+        "deskripsi": "Nasi dengan lauk dan sambal super pedas khas Banyuwangi.",
+        "gambar": "https://example.com/images/batagor.jpg"
+      },
+      {
+        "kategori": "gunung",
+        "nama": "Kawah Ijen",
+        "deskripsi": "Kawah dengan fenomena api biru (blue fire) yang langka di dunia.",
+        "gambar": "https://example.com/images/tangkuban.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Dialoog Banyuwangi",
+        "deskripsi": "Hotel tepi pantai dengan desain modern dan pemandangan Selat Bali.",
+        "gambar": "https://example.com/images/pvj.jpg"
+      }
+    ]
+  },
+  {
+    "nama_daerah": "Tana Toraja",
+    "gambar": "https://example.com/images/makassar.jpg",
+    "wisata": [
+      {
+        "kategori": "pantai",
+        "nama": "Pantai Bira",
+        "deskripsi": "Pantai berpasir putih dengan air laut jernih.",
+        "gambar": "https://example.com/images/losari.jpg"
+      },
+      {
+        "kategori": "kuliner",
+        "nama": "Pa’piong",
+        "deskripsi": "Daging dimasak dalam bambu dengan bumbu khas.",
+        "gambar": "https://example.com/images/coto.jpg"
+      },
+      {
+        "kategori": "hotel",
+        "nama": "Toraja Heritage Hotel",
+        "deskripsi": "Hotel bernuansa adat Tongkonan.",
+        "gambar": "https://example.com/images/aryaduta.jpg"
+      }
+    ]
+  }
+]
